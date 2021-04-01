@@ -1,0 +1,239 @@
+C:\Users\brozt\source\repos\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.exe.config
+C:\Users\brozt\source\repos\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.exe
+C:\Users\brozt\source\repos\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.pdb
+C:\Users\brozt\source\repos\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Giris.resources
+C:\Users\brozt\source\repos\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Properties.Resources.resources
+C:\Users\brozt\source\repos\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\Okul_Otomasyon_Projesi.csproj.GenerateResource.cache
+C:\Users\brozt\source\repos\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\Okul_Otomasyon_Projesi.csproj.CopyComplete
+C:\Users\brozt\source\repos\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.exe
+C:\Users\brozt\source\repos\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.pdb
+C:\Users\brozt\source\repos\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\Okul_Otomasyon_Projesi.csprojAssemblyReference.cache
+C:\Users\brozt\source\repos\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\Bunifu_UI_v1.52.dll
+C:\Users\brozt\source\repos\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.OgrAnaMenu.resources
+C:\Users\brozt\source\repos\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Sifreunuttum.resources
+C:\Users\brozt\source\repos\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.YntciAnaMenu.resources
+C:\Users\brozt\source\repos\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Resource1.resources
+C:\Users\brozt\source\repos\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\Okul_Otomasyon_Projesi.csproj.CoreCompileInputs.cache
+C:\Users\brozt\source\repos\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Ders_Bolum_ekle.resources
+C:\Users\brozt\source\repos\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Yeni_Kayit.resources
+C:\Users\brozt\source\repos\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.yazdir.resources
+C:\Users\brozt\source\repos\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.exe.manifest
+C:\Users\brozt\source\repos\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.application
+C:\Users\brozt\source\repos\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.exe.manifest
+C:\Users\brozt\source\repos\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.application
+C:\Users\brozt\source\repos\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\school_management.accdb
+C:\Users\brozt\source\repos\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\en-US\WindowsFormsApp2.resources.dll
+C:\Users\brozt\source\repos\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Localization.resources
+C:\Users\brozt\source\repos\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Localization.en-US.resources
+C:\Users\brozt\source\repos\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\en-US\WindowsFormsApp2.resources.dll
+C:\Users\brozt\source\repos\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\el-GR\WindowsFormsApp2.resources.dll
+C:\Users\brozt\source\repos\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.YntciAnaMenu.el-GR.resources
+C:\Users\brozt\source\repos\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\el-GR\WindowsFormsApp2.resources.dll
+C:\Users\brozt\Desktop\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.exe.config
+C:\Users\brozt\Desktop\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.exe.manifest
+C:\Users\brozt\Desktop\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.application
+C:\Users\brozt\Desktop\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.exe
+C:\Users\brozt\Desktop\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.pdb
+C:\Users\brozt\Desktop\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\en-US\WindowsFormsApp2.resources.dll
+C:\Users\brozt\Desktop\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\el-GR\WindowsFormsApp2.resources.dll
+C:\Users\brozt\Desktop\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\Bunifu_UI_v1.52.dll
+C:\Users\brozt\Desktop\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\Okul_Otomasyon_Projesi.csprojAssemblyReference.cache
+C:\Users\brozt\Desktop\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Ders_Bolum_ekle.resources
+C:\Users\brozt\Desktop\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Localization.resources
+C:\Users\brozt\Desktop\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.yazdir.resources
+C:\Users\brozt\Desktop\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Yeni_Kayit.resources
+C:\Users\brozt\Desktop\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Resource1.resources
+C:\Users\brozt\Desktop\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.YntciAnaMenu.resources
+C:\Users\brozt\Desktop\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Giris.resources
+C:\Users\brozt\Desktop\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.OgrAnaMenu.resources
+C:\Users\brozt\Desktop\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Properties.Resources.resources
+C:\Users\brozt\Desktop\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Sifreunuttum.resources
+C:\Users\brozt\Desktop\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Localization.en-US.resources
+C:\Users\brozt\Desktop\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.YntciAnaMenu.el-GR.resources
+C:\Users\brozt\Desktop\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\Okul_Otomasyon_Projesi.csproj.GenerateResource.cache
+C:\Users\brozt\Desktop\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\Okul_Otomasyon_Projesi.csproj.CoreCompileInputs.cache
+C:\Users\brozt\Desktop\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\en-US\WindowsFormsApp2.resources.dll
+C:\Users\brozt\Desktop\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\el-GR\WindowsFormsApp2.resources.dll
+C:\Users\brozt\Desktop\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.exe.manifest
+C:\Users\brozt\Desktop\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.application
+C:\Users\brozt\Desktop\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\Okul_Otomasyon_Projesi.csproj.CopyComplete
+C:\Users\brozt\Desktop\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.exe
+C:\Users\brozt\Desktop\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.pdb
+C:\Users\brozt\Desktop\17010011067\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.exe.config
+C:\Users\brozt\Desktop\17010011067\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.exe.manifest
+C:\Users\brozt\Desktop\17010011067\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.application
+C:\Users\brozt\Desktop\17010011067\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.exe
+C:\Users\brozt\Desktop\17010011067\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.pdb
+C:\Users\brozt\Desktop\17010011067\WindowsFormsApp2\bin\Debug\en-US\WindowsFormsApp2.resources.dll
+C:\Users\brozt\Desktop\17010011067\WindowsFormsApp2\bin\Debug\el-GR\WindowsFormsApp2.resources.dll
+C:\Users\brozt\Desktop\17010011067\WindowsFormsApp2\bin\Debug\Bunifu_UI_v1.52.dll
+C:\Users\brozt\Desktop\17010011067\WindowsFormsApp2\obj\Debug\Okul_Otomasyon_Projesi.csprojAssemblyReference.cache
+C:\Users\brozt\Desktop\17010011067\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Ders_Bolum_ekle.resources
+C:\Users\brozt\Desktop\17010011067\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Localization.resources
+C:\Users\brozt\Desktop\17010011067\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.yazdir.resources
+C:\Users\brozt\Desktop\17010011067\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Yeni_Kayit.resources
+C:\Users\brozt\Desktop\17010011067\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Resource1.resources
+C:\Users\brozt\Desktop\17010011067\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.YntciAnaMenu.resources
+C:\Users\brozt\Desktop\17010011067\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Giris.resources
+C:\Users\brozt\Desktop\17010011067\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.OgrAnaMenu.resources
+C:\Users\brozt\Desktop\17010011067\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Properties.Resources.resources
+C:\Users\brozt\Desktop\17010011067\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Sifreunuttum.resources
+C:\Users\brozt\Desktop\17010011067\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Localization.en-US.resources
+C:\Users\brozt\Desktop\17010011067\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.YntciAnaMenu.el-GR.resources
+C:\Users\brozt\Desktop\17010011067\WindowsFormsApp2\obj\Debug\Okul_Otomasyon_Projesi.csproj.GenerateResource.cache
+C:\Users\brozt\Desktop\17010011067\WindowsFormsApp2\obj\Debug\Okul_Otomasyon_Projesi.csproj.CoreCompileInputs.cache
+C:\Users\brozt\Desktop\17010011067\WindowsFormsApp2\obj\Debug\en-US\WindowsFormsApp2.resources.dll
+C:\Users\brozt\Desktop\17010011067\WindowsFormsApp2\obj\Debug\el-GR\WindowsFormsApp2.resources.dll
+C:\Users\brozt\Desktop\17010011067\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.exe.manifest
+C:\Users\brozt\Desktop\17010011067\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.application
+C:\Users\brozt\Desktop\17010011067\WindowsFormsApp2\obj\Debug\Okul_Otomasyon_Projesi.csproj.CopyComplete
+C:\Users\brozt\Desktop\17010011067\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.exe
+C:\Users\brozt\Desktop\17010011067\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.pdb
+C:\Users\brozt\Desktop\17010011067\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.kisi_düzenle.resources
+C:\Users\brozt\Desktop\17010011067\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.D_B_duzenle.resources
+C:\Users\brozt\Desktop\17010011067\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Not_ekle.resources
+C:\Users\brozt\Desktop\17010011067\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Notlar.resources
+C:\Users\brozt\Desktop\17010011067\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Kisisel_bilgiler.resources
+C:\Users\brozt\Desktop\17010011067\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Ders_kaydi.resources
+C:\Users\brozt\Desktop\17010011067\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.toplu_veri.resources
+C:\Users\brozt\Pictures\17010011067\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.exe.config
+C:\Users\brozt\Pictures\17010011067\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.exe.manifest
+C:\Users\brozt\Pictures\17010011067\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.application
+C:\Users\brozt\Pictures\17010011067\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.exe
+C:\Users\brozt\Pictures\17010011067\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.pdb
+C:\Users\brozt\Pictures\17010011067\WindowsFormsApp2\bin\Debug\en-US\WindowsFormsApp2.resources.dll
+C:\Users\brozt\Pictures\17010011067\WindowsFormsApp2\bin\Debug\el-GR\WindowsFormsApp2.resources.dll
+C:\Users\brozt\Pictures\17010011067\WindowsFormsApp2\bin\Debug\Bunifu_UI_v1.52.dll
+C:\Users\brozt\Pictures\17010011067\WindowsFormsApp2\obj\Debug\Okul_Otomasyon_Projesi.csprojAssemblyReference.cache
+C:\Users\brozt\Pictures\17010011067\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Ders_Bolum_ekle.resources
+C:\Users\brozt\Pictures\17010011067\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Ders_kaydi.resources
+C:\Users\brozt\Pictures\17010011067\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.D_B_duzenle.resources
+C:\Users\brozt\Pictures\17010011067\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Kisisel_bilgiler.resources
+C:\Users\brozt\Pictures\17010011067\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.kisi_düzenle.resources
+C:\Users\brozt\Pictures\17010011067\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Localization.resources
+C:\Users\brozt\Pictures\17010011067\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Notlar.resources
+C:\Users\brozt\Pictures\17010011067\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Not_ekle.resources
+C:\Users\brozt\Pictures\17010011067\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.yazdir.resources
+C:\Users\brozt\Pictures\17010011067\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Yeni_Kayit.resources
+C:\Users\brozt\Pictures\17010011067\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Resource1.resources
+C:\Users\brozt\Pictures\17010011067\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.YntciAnaMenu.resources
+C:\Users\brozt\Pictures\17010011067\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Giris.resources
+C:\Users\brozt\Pictures\17010011067\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.OgrAnaMenu.resources
+C:\Users\brozt\Pictures\17010011067\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Properties.Resources.resources
+C:\Users\brozt\Pictures\17010011067\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Sifreunuttum.resources
+C:\Users\brozt\Pictures\17010011067\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Localization.en-US.resources
+C:\Users\brozt\Pictures\17010011067\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.YntciAnaMenu.el-GR.resources
+C:\Users\brozt\Pictures\17010011067\WindowsFormsApp2\obj\Debug\Okul_Otomasyon_Projesi.csproj.GenerateResource.cache
+C:\Users\brozt\Pictures\17010011067\WindowsFormsApp2\obj\Debug\Okul_Otomasyon_Projesi.csproj.CoreCompileInputs.cache
+C:\Users\brozt\Pictures\17010011067\WindowsFormsApp2\obj\Debug\en-US\WindowsFormsApp2.resources.dll
+C:\Users\brozt\Pictures\17010011067\WindowsFormsApp2\obj\Debug\el-GR\WindowsFormsApp2.resources.dll
+C:\Users\brozt\Pictures\17010011067\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.exe.manifest
+C:\Users\brozt\Pictures\17010011067\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.application
+C:\Users\brozt\Pictures\17010011067\WindowsFormsApp2\obj\Debug\Okul_Otomasyon_Projesi.csproj.CopyComplete
+C:\Users\brozt\Pictures\17010011067\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.exe
+C:\Users\brozt\Pictures\17010011067\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.pdb
+C:\Users\brozt\Pictures\Camera Roll\17010011067\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.exe.config
+C:\Users\brozt\Pictures\Camera Roll\17010011067\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.exe.manifest
+C:\Users\brozt\Pictures\Camera Roll\17010011067\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.application
+C:\Users\brozt\Pictures\Camera Roll\17010011067\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.exe
+C:\Users\brozt\Pictures\Camera Roll\17010011067\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.pdb
+C:\Users\brozt\Pictures\Camera Roll\17010011067\WindowsFormsApp2\bin\Debug\en-US\WindowsFormsApp2.resources.dll
+C:\Users\brozt\Pictures\Camera Roll\17010011067\WindowsFormsApp2\bin\Debug\el-GR\WindowsFormsApp2.resources.dll
+C:\Users\brozt\Pictures\Camera Roll\17010011067\WindowsFormsApp2\obj\Debug\Okul_Otomasyon_Projesi.csprojAssemblyReference.cache
+C:\Users\brozt\Pictures\Camera Roll\17010011067\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Ders_Bolum_ekle.resources
+C:\Users\brozt\Pictures\Camera Roll\17010011067\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Ders_kaydi.resources
+C:\Users\brozt\Pictures\Camera Roll\17010011067\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.D_B_duzenle.resources
+C:\Users\brozt\Pictures\Camera Roll\17010011067\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Kisisel_bilgiler.resources
+C:\Users\brozt\Pictures\Camera Roll\17010011067\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.kisi_düzenle.resources
+C:\Users\brozt\Pictures\Camera Roll\17010011067\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Localization.resources
+C:\Users\brozt\Pictures\Camera Roll\17010011067\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Notlar.resources
+C:\Users\brozt\Pictures\Camera Roll\17010011067\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Not_ekle.resources
+C:\Users\brozt\Pictures\Camera Roll\17010011067\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.yazdir.resources
+C:\Users\brozt\Pictures\Camera Roll\17010011067\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Yeni_Kayit.resources
+C:\Users\brozt\Pictures\Camera Roll\17010011067\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Resource1.resources
+C:\Users\brozt\Pictures\Camera Roll\17010011067\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.YntciAnaMenu.resources
+C:\Users\brozt\Pictures\Camera Roll\17010011067\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Giris.resources
+C:\Users\brozt\Pictures\Camera Roll\17010011067\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.OgrAnaMenu.resources
+C:\Users\brozt\Pictures\Camera Roll\17010011067\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Properties.Resources.resources
+C:\Users\brozt\Pictures\Camera Roll\17010011067\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Sifreunuttum.resources
+C:\Users\brozt\Pictures\Camera Roll\17010011067\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Localization.en-US.resources
+C:\Users\brozt\Pictures\Camera Roll\17010011067\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.YntciAnaMenu.el-GR.resources
+C:\Users\brozt\Pictures\Camera Roll\17010011067\WindowsFormsApp2\obj\Debug\Okul_Otomasyon_Projesi.csproj.GenerateResource.cache
+C:\Users\brozt\Pictures\Camera Roll\17010011067\WindowsFormsApp2\obj\Debug\Okul_Otomasyon_Projesi.csproj.CoreCompileInputs.cache
+C:\Users\brozt\Pictures\Camera Roll\17010011067\WindowsFormsApp2\obj\Debug\en-US\WindowsFormsApp2.resources.dll
+C:\Users\brozt\Pictures\Camera Roll\17010011067\WindowsFormsApp2\obj\Debug\el-GR\WindowsFormsApp2.resources.dll
+C:\Users\brozt\Pictures\Camera Roll\17010011067\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.exe.manifest
+C:\Users\brozt\Pictures\Camera Roll\17010011067\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.application
+C:\Users\brozt\Pictures\Camera Roll\17010011067\WindowsFormsApp2\obj\Debug\Okul_Otomasyon_Projesi.csproj.CopyComplete
+C:\Users\brozt\Pictures\Camera Roll\17010011067\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.exe
+C:\Users\brozt\Pictures\Camera Roll\17010011067\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.pdb
+C:\Users\brozt\Pictures\Camera Roll\17010011067\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.toplu_veri.resources
+C:\Users\brozt\Desktop\projeler\17010011067-Gorsel\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.exe.config
+C:\Users\brozt\Desktop\projeler\17010011067-Gorsel\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.exe.manifest
+C:\Users\brozt\Desktop\projeler\17010011067-Gorsel\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.application
+C:\Users\brozt\Desktop\projeler\17010011067-Gorsel\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.exe
+C:\Users\brozt\Desktop\projeler\17010011067-Gorsel\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.pdb
+C:\Users\brozt\Desktop\projeler\17010011067-Gorsel\WindowsFormsApp2\bin\Debug\en-US\WindowsFormsApp2.resources.dll
+C:\Users\brozt\Desktop\projeler\17010011067-Gorsel\WindowsFormsApp2\bin\Debug\el-GR\WindowsFormsApp2.resources.dll
+C:\Users\brozt\Desktop\projeler\17010011067-Gorsel\WindowsFormsApp2\obj\Debug\Okul_Otomasyon_Projesi.csprojAssemblyReference.cache
+C:\Users\brozt\Desktop\projeler\17010011067-Gorsel\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Ders_Bolum_ekle.resources
+C:\Users\brozt\Desktop\projeler\17010011067-Gorsel\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Ders_kaydi.resources
+C:\Users\brozt\Desktop\projeler\17010011067-Gorsel\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.D_B_duzenle.resources
+C:\Users\brozt\Desktop\projeler\17010011067-Gorsel\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Kisisel_bilgiler.resources
+C:\Users\brozt\Desktop\projeler\17010011067-Gorsel\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.kisi_düzenle.resources
+C:\Users\brozt\Desktop\projeler\17010011067-Gorsel\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Localization.resources
+C:\Users\brozt\Desktop\projeler\17010011067-Gorsel\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Notlar.resources
+C:\Users\brozt\Desktop\projeler\17010011067-Gorsel\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Not_ekle.resources
+C:\Users\brozt\Desktop\projeler\17010011067-Gorsel\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.yazdir.resources
+C:\Users\brozt\Desktop\projeler\17010011067-Gorsel\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Yeni_Kayit.resources
+C:\Users\brozt\Desktop\projeler\17010011067-Gorsel\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Resource1.resources
+C:\Users\brozt\Desktop\projeler\17010011067-Gorsel\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.YntciAnaMenu.resources
+C:\Users\brozt\Desktop\projeler\17010011067-Gorsel\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Giris.resources
+C:\Users\brozt\Desktop\projeler\17010011067-Gorsel\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.OgrAnaMenu.resources
+C:\Users\brozt\Desktop\projeler\17010011067-Gorsel\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Properties.Resources.resources
+C:\Users\brozt\Desktop\projeler\17010011067-Gorsel\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Sifreunuttum.resources
+C:\Users\brozt\Desktop\projeler\17010011067-Gorsel\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Localization.en-US.resources
+C:\Users\brozt\Desktop\projeler\17010011067-Gorsel\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.YntciAnaMenu.el-GR.resources
+C:\Users\brozt\Desktop\projeler\17010011067-Gorsel\WindowsFormsApp2\obj\Debug\Okul_Otomasyon_Projesi.csproj.GenerateResource.cache
+C:\Users\brozt\Desktop\projeler\17010011067-Gorsel\WindowsFormsApp2\obj\Debug\Okul_Otomasyon_Projesi.csproj.CoreCompileInputs.cache
+C:\Users\brozt\Desktop\projeler\17010011067-Gorsel\WindowsFormsApp2\obj\Debug\en-US\WindowsFormsApp2.resources.dll
+C:\Users\brozt\Desktop\projeler\17010011067-Gorsel\WindowsFormsApp2\obj\Debug\el-GR\WindowsFormsApp2.resources.dll
+C:\Users\brozt\Desktop\projeler\17010011067-Gorsel\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.exe.manifest
+C:\Users\brozt\Desktop\projeler\17010011067-Gorsel\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.application
+C:\Users\brozt\Desktop\projeler\17010011067-Gorsel\WindowsFormsApp2\obj\Debug\Okul_Otomasyon_Projesi.csproj.CopyComplete
+C:\Users\brozt\Desktop\projeler\17010011067-Gorsel\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.exe
+C:\Users\brozt\Desktop\projeler\17010011067-Gorsel\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.pdb
+E:\visual studio c#\OkulYonetimSistemi-main\OkulYonetim\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.exe.config
+E:\visual studio c#\OkulYonetimSistemi-main\OkulYonetim\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.exe.manifest
+E:\visual studio c#\OkulYonetimSistemi-main\OkulYonetim\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.application
+E:\visual studio c#\OkulYonetimSistemi-main\OkulYonetim\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.exe
+E:\visual studio c#\OkulYonetimSistemi-main\OkulYonetim\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.pdb
+E:\visual studio c#\OkulYonetimSistemi-main\OkulYonetim\WindowsFormsApp2\bin\Debug\en-US\WindowsFormsApp2.resources.dll
+E:\visual studio c#\OkulYonetimSistemi-main\OkulYonetim\WindowsFormsApp2\bin\Debug\el-GR\WindowsFormsApp2.resources.dll
+E:\visual studio c#\OkulYonetimSistemi-main\OkulYonetim\WindowsFormsApp2\obj\Debug\Okul_Otomasyon_Projesi.csprojAssemblyReference.cache
+E:\visual studio c#\OkulYonetimSistemi-main\OkulYonetim\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Ders_Bolum_ekle.resources
+E:\visual studio c#\OkulYonetimSistemi-main\OkulYonetim\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Ders_kaydi.resources
+E:\visual studio c#\OkulYonetimSistemi-main\OkulYonetim\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.D_B_duzenle.resources
+E:\visual studio c#\OkulYonetimSistemi-main\OkulYonetim\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Kisisel_bilgiler.resources
+E:\visual studio c#\OkulYonetimSistemi-main\OkulYonetim\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.kisi_düzenle.resources
+E:\visual studio c#\OkulYonetimSistemi-main\OkulYonetim\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Localization.resources
+E:\visual studio c#\OkulYonetimSistemi-main\OkulYonetim\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Notlar.resources
+E:\visual studio c#\OkulYonetimSistemi-main\OkulYonetim\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Not_ekle.resources
+E:\visual studio c#\OkulYonetimSistemi-main\OkulYonetim\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.yazdir.resources
+E:\visual studio c#\OkulYonetimSistemi-main\OkulYonetim\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Yeni_Kayit.resources
+E:\visual studio c#\OkulYonetimSistemi-main\OkulYonetim\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Resource1.resources
+E:\visual studio c#\OkulYonetimSistemi-main\OkulYonetim\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.YntciAnaMenu.resources
+E:\visual studio c#\OkulYonetimSistemi-main\OkulYonetim\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Giris.resources
+E:\visual studio c#\OkulYonetimSistemi-main\OkulYonetim\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.OgrAnaMenu.resources
+E:\visual studio c#\OkulYonetimSistemi-main\OkulYonetim\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Properties.Resources.resources
+E:\visual studio c#\OkulYonetimSistemi-main\OkulYonetim\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Sifreunuttum.resources
+E:\visual studio c#\OkulYonetimSistemi-main\OkulYonetim\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Localization.en-US.resources
+E:\visual studio c#\OkulYonetimSistemi-main\OkulYonetim\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.YntciAnaMenu.el-GR.resources
+E:\visual studio c#\OkulYonetimSistemi-main\OkulYonetim\WindowsFormsApp2\obj\Debug\Okul_Otomasyon_Projesi.csproj.GenerateResource.cache
+E:\visual studio c#\OkulYonetimSistemi-main\OkulYonetim\WindowsFormsApp2\obj\Debug\Okul_Otomasyon_Projesi.csproj.CoreCompileInputs.cache
+E:\visual studio c#\OkulYonetimSistemi-main\OkulYonetim\WindowsFormsApp2\obj\Debug\en-US\WindowsFormsApp2.resources.dll
+E:\visual studio c#\OkulYonetimSistemi-main\OkulYonetim\WindowsFormsApp2\obj\Debug\el-GR\WindowsFormsApp2.resources.dll
+E:\visual studio c#\OkulYonetimSistemi-main\OkulYonetim\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.exe.manifest
+E:\visual studio c#\OkulYonetimSistemi-main\OkulYonetim\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.application
+E:\visual studio c#\OkulYonetimSistemi-main\OkulYonetim\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.exe
+E:\visual studio c#\OkulYonetimSistemi-main\OkulYonetim\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.pdb
