@@ -18,6 +18,8 @@ namespace WindowsFormsApp2
         OleDbConnection baglanti = new OleDbConnection("Provider=Microsoft.ACE.OLEDB.12.0;Data Source=" + Application.StartupPath + "\\DB_School.accdb");
 
         YntciAnaMenu anamenu;
+
+
         int blm_id, ders_sayi;
         public D_B_duzenle()
         {
