@@ -20,15 +20,15 @@
 School Management System is an application where administrators can perform new records, update old records, etc., and where students can record their lessons and see their grades.
 
 Admins can;
-- Addand update person
-- Add and update faculty
-- Add and update department
-- Add and update lessons
-- Enter exam result
+- Adding and updating person
+- Adding and updating faculty
+- Adding and updating department
+- Adding and updating lessons
+- Entering exam result
 
 
 Students can;
-- Take lesson
+- Taking lesson
 - Update personal information
 - See the exam result
 
